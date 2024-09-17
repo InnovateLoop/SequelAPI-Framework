@@ -1,0 +1,8 @@
+openmeter==1.0.0b182
+beanie==1.25.0
+fastapi==0.112.0
+pydantic==2.7.3
+PyJWT==2.9.0
+airportsdata==20240806
+openai==1.45.1
+requests==2.31.0
